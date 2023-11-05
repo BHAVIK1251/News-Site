@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This project allow an user to read everyday news with different areas.
+# Please update the APIKey mentioned in the App.js file with yours by creating an account in the given website (https://newsapi.org/).
 
 ## Available Scripts
 
